@@ -60,7 +60,7 @@ No identifiable patient data was used.
 
 ## Dashboard
 
-<img width="851" height="414" alt="image" src="https://github.com/user-attachments/assets/05508953-d449-40c5-92d4-6696ebe88afe" />
+![NHS A&E Dashboard](Dashboard/dashboard_screenshot.png)
 
 ## Limitations
 
